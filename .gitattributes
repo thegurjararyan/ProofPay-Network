@@ -1,0 +1,6 @@
+artifacts/** filter=lfs diff=lfs merge=lfs -text
+cache/** filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.dat filter=lfs diff=lfs merge=lfs -text
+*.zkey filter=lfs diff=lfs merge=lfs -text
+*.ptau filter=lfs diff=lfs merge=lfs -text
